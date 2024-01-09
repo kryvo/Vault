@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "school.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "school.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "school.md"
+              }
             }
           },
           {
@@ -141,8 +144,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "0e63d41a72395ed8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -163,15 +175,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "760e4603e89dc97f",
+  "active": "88af6d34f5a3e19b",
   "lastOpenFiles": [
-    "school.md",
-    "Organization/obsidian.md",
     "readme.md",
+    "Organization/vault.md",
+    "Organization/obsidian.md",
+    "school.md",
     "Spaces/Home",
     "Spaces",
     "Organization/Organization.md",
-    "Organization/vault.md",
     "Vault.md",
     "Spaces/Spaces.md",
     "Organization",
