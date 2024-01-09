@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "15f009132cec4997",
+        "id": "aa126d40e3f42a20",
         "type": "tabs",
         "children": [
           {
-            "id": "4039872631245310",
+            "id": "88585edeaf8fdaec",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "/"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -161,17 +159,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0498dc7d090653b9",
+  "active": "88585edeaf8fdaec",
   "lastOpenFiles": [
-    "Organization/Spaces/Spaces.md",
+    "Vault.md",
+    "readme.md",
     "Organization/Organization.md",
+    "Organization/obsidian.md",
+    "Spaces/Home",
+    "Spaces",
+    "Organization/vault.md",
+    "Spaces/Spaces.md",
     "Organization",
     "Untitled.md",
-    "readme.md",
-    "obsidian.md",
-    "vault.md",
-    "notes.md",
-    "Organization/Spaces/Home",
-    "Organization/Spaces"
+    "notes.md"
   ]
 }
