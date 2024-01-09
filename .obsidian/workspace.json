@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aa126d40e3f42a20",
+        "id": "0de284da4c8c705e",
         "type": "tabs",
         "children": [
           {
-            "id": "88585edeaf8fdaec",
+            "id": "a327d9dd06900862",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#organization",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,15 +159,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "88585edeaf8fdaec",
+  "active": "a327d9dd06900862",
   "lastOpenFiles": [
-    "Vault.md",
-    "readme.md",
-    "Organization/Organization.md",
-    "Organization/obsidian.md",
     "Spaces/Home",
     "Spaces",
+    "Organization/Organization.md",
+    "readme.md",
+    "Organization/obsidian.md",
     "Organization/vault.md",
+    "Vault.md",
     "Spaces/Spaces.md",
     "Organization",
     "Untitled.md",

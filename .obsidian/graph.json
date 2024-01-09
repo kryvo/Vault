@@ -4,11 +4,11 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Organization  ",
+      "query": "#organization",
       "color": {
         "a": 1,
         "rgb": 14701138
