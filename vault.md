@@ -1,0 +1,1 @@
+A [[vault]] is a folder stored in [[obsidian]] that is organized using a [[node]] view. They can be synced using the [[Obsidian Git]] plugin. 
