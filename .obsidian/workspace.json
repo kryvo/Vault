@@ -11,8 +11,12 @@
             "id": "a327d9dd06900862",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "school.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -159,13 +163,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a327d9dd06900862",
+  "active": "760e4603e89dc97f",
   "lastOpenFiles": [
+    "school.md",
+    "Organization/obsidian.md",
+    "readme.md",
     "Spaces/Home",
     "Spaces",
     "Organization/Organization.md",
-    "readme.md",
-    "Organization/obsidian.md",
     "Organization/vault.md",
     "Vault.md",
     "Spaces/Spaces.md",
