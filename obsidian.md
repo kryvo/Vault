@@ -1,0 +1,1 @@
+[[Obsidian]] is a [[notes]] taking app that lets you organize your thinking in a [[node]] based format.

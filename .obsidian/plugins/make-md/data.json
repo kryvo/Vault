@@ -36,7 +36,13 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//Spaces"
+    "//Spaces",
+    "//Spaces",
+    "//Spaces",
+    "//Organization",
+    "//Spaces",
+    "/////",
+    "///////"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
