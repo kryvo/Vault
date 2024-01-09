@@ -11,12 +11,8 @@
             "id": "a327d9dd06900862",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "school.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -56,22 +52,6 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "cd0815d1beb5ce9a",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "0498dc7d090653b9",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {}
-            }
           }
         ]
       }
@@ -93,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "school.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,16 +151,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "88af6d34f5a3e19b",
+  "active": "a327d9dd06900862",
   "lastOpenFiles": [
-    "readme.md",
     "Organization/vault.md",
+    "readme.md",
+    "Organization/Organization.md",
     "Organization/obsidian.md",
+    "Vault.md",
     "school.md",
     "Spaces/Home",
     "Spaces",
-    "Organization/Organization.md",
-    "Vault.md",
     "Spaces/Spaces.md",
     "Organization",
     "Untitled.md",
