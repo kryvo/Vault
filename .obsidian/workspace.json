@@ -161,12 +161,14 @@
   },
   "active": "a327d9dd06900862",
   "lastOpenFiles": [
+    "Tools/Organization/obsidian.md",
     "readme.md",
+    "tasks.md",
+    "School/school.md",
+    "Tools/Organization/notes.md",
     "Tools/Organization/vault.md",
     "Tools/Organization/Obsidian Git.md",
-    "Tools/Organization/obsidian.md",
     "Tools/Organization/node.md",
-    "School/school.md",
     "Vault.md",
     "Tools/Organization",
     "Organization/Untitled",
@@ -176,7 +178,6 @@
     "Spaces",
     "Spaces/Spaces.md",
     "Tools",
-    "Untitled.md",
-    "notes.md"
+    "Untitled.md"
   ]
 }

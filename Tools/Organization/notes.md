@@ -1,0 +1,1 @@
+From now on, notes will be stored on a subject by subject basis.
