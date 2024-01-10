@@ -52,6 +52,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "681dea2ce88315e0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -153,13 +161,13 @@
   },
   "active": "a327d9dd06900862",
   "lastOpenFiles": [
-    "School/school.md",
-    "Tools/Organization/node.md",
-    "Tools/Organization/obsidian.md",
-    "Tools/Organization/Obsidian Git.md",
-    "Tools/Organization/vault.md",
-    "Vault.md",
     "readme.md",
+    "Tools/Organization/vault.md",
+    "Tools/Organization/Obsidian Git.md",
+    "Tools/Organization/obsidian.md",
+    "Tools/Organization/node.md",
+    "School/school.md",
+    "Vault.md",
     "Tools/Organization",
     "Organization/Untitled",
     "School",

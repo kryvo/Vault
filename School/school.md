@@ -1,4 +1,3 @@
-#school
 
 I am currently a [[sophomore]] at [[martin]].
 

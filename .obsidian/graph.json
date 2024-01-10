@@ -8,14 +8,14 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "#organization",
+      "query": "path:Tools/Organization  ",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "#school",
+      "query": "path:School  ",
       "color": {
         "a": 1,
         "rgb": 14725458
